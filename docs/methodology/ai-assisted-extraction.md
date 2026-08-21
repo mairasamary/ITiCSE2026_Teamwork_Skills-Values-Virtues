@@ -153,7 +153,7 @@ Extraction quality was good, but the models' final *inclusion/exclusion decision
 - Decision (accept/reject)
 - If rejected, which exclusion criterion applied
 
-The final screening and extraction results produced from this second iteration are the ones used in the group's analysis (see [`../../data/extraction/`](../../data/extraction/) and [`../../data/screening/`](../../data/screening/)).
+The final screening and extraction results produced from this second iteration are the ones used in the group's analysis (see [`../../systematic-literature-review/data/extraction/`](../../systematic-literature-review/data/extraction/) and [`../../systematic-literature-review/data/screening/`](../../systematic-literature-review/data/screening/)).
 
 ## Related process documentation
 

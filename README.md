@@ -30,24 +30,38 @@ This working group examines how tertiary computing programs can effectively inte
 
 ```
 ITiCSE2026_Teamwork_Skills-Values-Virtues/
-├── README.md                  This file
-├── LICENSE                    Usage terms (CC BY-NC 4.0)
-├── CITATION.cff                How to cite this repository
-├── .zenodo.json                 Metadata used by Zenodo when archiving a GitHub release
-├── docs/
-│   ├── project-overview.md      Full WG10 proposal text (purpose, motivation, methodology, expectations)
-│   ├── methodology/              How the systematic literature review and AI-assisted extraction were designed and run
-│   └── appendices/               Supplementary appendices referenced in the SLR write-up
-├── data/
-│   ├── extraction/               Phase 2 data-extraction tables (one row per included paper)
-│   └── screening/                Phase 1 screening outputs (IN / OUT / Discussion tables)
-├── scripts/
-│   ├── apps-script/              Google Apps Script tooling used to run the screening web app
-│   └── python/                    Python scripts used for PDF linking and data cleanup
-└── figures/                      Diagrams and screenshots referenced from the docs
+├── README.md                        This file
+├── LICENSE                          Usage terms (CC BY-NC 4.0)
+├── CITATION.cff                     How to cite this repository
+├── .zenodo.json                     Metadata used by Zenodo when archiving a GitHub release
+├── docs/                            Project overview, methodology write-ups, and appendices (spans all phases)
+│   ├── project-overview.md            Full WG10 proposal text (purpose, motivation, methodology, expectations)
+│   ├── methodology/                    How the SLR and its AI-assisted extraction were designed and run
+│   └── appendices/                     Supplementary appendices referenced in the SLR write-up
+├── figures/                         Diagrams and screenshots referenced from docs/
+├── systematic-literature-review/    Phase 1 — SLR: screening and extraction tables, plus the tooling behind them
+│   ├── data/                           Screening (Phase 1) and extraction (Phase 2) tables
+│   └── scripts/                        Apps Script + Python tooling behind the screening pipeline
+├── focus-group/                     Focus-group protocol, sessions, and analysis — placeholder
+├── survey/                          Survey instrument, data, and analysis — placeholder
+└── community-collaboration/         Participatory co-design resources and working-session notes — placeholder
 ```
 
-See the `README.md` inside `data/`, `scripts/`, and `figures/` for notes on what belongs in each of those folders and how large files are handled.
+## What's in each folder
+
+**[`docs/`](./docs/)** — Start here. The full WG10 project overview, plus the methodology write-ups and appendices for the systematic literature review (how papers were screened and how data was extracted, including the AI-assisted extraction prompts). As the other strands below produce their own write-ups, those can live here too, alongside the SLR ones.
+
+**[`figures/`](./figures/)** — Diagrams and screenshots referenced from `docs/` (for example, the screening-tool screenshots referenced in the appendices).
+
+**[`systematic-literature-review/`](./systematic-literature-review/)** — Phase 1 of the methodology above. This is the strand that's populated so far: the resulting screening and data-extraction tables, and the tooling used to produce them (a paper-screening web app and supporting scripts). The write-up describing this process lives in `docs/methodology/`, not here.
+
+**[`focus-group/`](./focus-group/)** — *Placeholder, not yet populated.* Will hold the focus-group protocol, session materials, and thematic analysis from the qualitative educator-perspectives phase of the methodology (objective 2 above).
+
+**[`survey/`](./survey/)** — *Placeholder, not yet populated.* Will hold the survey instrument, de-identified response data, and analysis, from the same qualitative educator-perspectives phase.
+
+**[`community-collaboration/`](./community-collaboration/)** — *Placeholder, not yet populated.* Will hold the resources, working-session notes, and community feedback from the participatory co-design phase (objective 4 above).
+
+Each folder — including the three placeholders — has its own `README.md` with more detail on the suggested contents and any data-handling notes (for example, de-identifying participant data from focus groups and surveys before it's committed).
 
 ## Data and large files
 

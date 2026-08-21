@@ -3,7 +3,7 @@
 This repository contains the materials, data, and tools produced by **ITiCSE 2026 Working Group 10 (WG10)**, convened as part of the [27th Annual Conference on Innovation and Technology in Computer Science Education (ITiCSE 2026)](https://iticse.acm.org/2026/), taking place in Madrid, Spain.
 
 - **Working group proposal:** https://iticse.acm.org/2026/2026-working-group-proposals/
-- **Organizers:** Stephanie Lunn (Florida International University, sjlunn@fiu.edu) and Maíra Marques Samary (Boston College, marquemo@bc.edu)
+- **Working Group Co-Leaders:** Stephanie J. Lunn, Maíra Marques Samary, and Stephen Frezza — see [Working Group Members](#working-group-members) below for the full team.
 
 ## Purpose
 
@@ -25,6 +25,28 @@ This working group examines how tertiary computing programs can effectively inte
 - **RQ3.** Which skills, values, and virtues (SVV) do computing and engineering faculty describe as aligning with or supporting teamwork in education?
 
 **Methodology.** The investigation employs a multi-phase approach: a systematic literature review (SLR) of teamwork in computing and engineering education contexts, a qualitative investigation of educator viewpoints, identification of best practices and gaps, and participatory co-design of instructional resources with faculty and students.
+
+## Working Group Members
+
+### Working Group Co-Leaders
+
+| Name | Affiliation | ORCID | Email |
+|---|---|---|---|
+| **Stephanie J. Lunn** | Florida International University — Miami, Florida, USA | [0000-0003-3840-1822](https://orcid.org/0000-0003-3840-1822) | sjlunn@fiu.edu |
+| **Maíra Marques Samary** | Boston College — Chestnut Hill, Massachusetts, USA | [0000-0001-5347-1664](https://orcid.org/0000-0001-5347-1664) | marquemo@bc.edu |
+| **Stephen Frezza** | Franciscan University of Steubenville — Steubenville, Ohio, USA | [0000-0002-5246-3061](https://orcid.org/0000-0002-5246-3061) | sfrezza@franciscan.edu |
+
+### Contributors
+
+| Name | Affiliation | ORCID | Email |
+|---|---|---|---|
+| Priscilla Jimenez-Pazmino | University of St. Thomas — Saint Paul, Minnesota, USA | [0000-0002-3605-3011](https://orcid.org/0000-0002-3605-3011) | priscilla.jimenez@stthomas.edu |
+| Janice L. Pearce | Berea College — Berea, Kentucky, USA | [0000-0001-7566-9217](https://orcid.org/0000-0001-7566-9217) | jan_pearce@berea.edu |
+| Daniel Prol | University of Houston — Houston, Texas, USA | [0009-0006-6522-4322](https://orcid.org/0009-0006-6522-4322) | dprol@uh.edu |
+| Shanon Reckinger | University of Illinois Chicago — Chicago, Illinois, USA | [0000-0003-1609-9861](https://orcid.org/0000-0003-1609-9861) | shanon@uic.edu |
+| Michael James Scott | Falmouth University — Penryn, Cornwall, UK | [0000-0002-6803-1490](https://orcid.org/0000-0002-6803-1490) | michael.scott@falmouth.ac.uk |
+| Carolin Wortmann | University of Münster — Münster, Germany | [0009-0006-6956-3372](https://orcid.org/0009-0006-6956-3372) | carolin.wortmann@uni-muenster.de |
+| Batya Zamansky | University of Illinois Urbana-Champaign — Urbana, Illinois, USA | [0009-0002-4519-9175](https://orcid.org/0009-0002-4519-9175) | batyaz2@illinois.edu |
 
 ## Repository structure
 

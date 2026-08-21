@@ -48,6 +48,10 @@ This working group examines how tertiary computing programs can effectively inte
 | Carolin Wortmann | University of Münster — Münster, Germany | [0009-0006-6956-3372](https://orcid.org/0009-0006-6956-3372) | carolin.wortmann@uni-muenster.de |
 | Batya Zamansky | University of Illinois Urbana-Champaign — Urbana, Illinois, USA | [0009-0002-4519-9175](https://orcid.org/0009-0002-4519-9175) | batyaz2@illinois.edu |
 
+### Acknowledgments
+
+This work would not have been possible without the dedicated support of several non-author volunteers, in particular **Heidi Ellis** (heidi.ellis@wne.edu), **Gregory Hislop** (hislop@drexel.edu), and **Sanaz Nikfalazar** (sanaz.nikfalazar1@monash.edu), who were extremely supportive and made significant contributions to the data analysis.
+
 ## Repository structure
 
 ```

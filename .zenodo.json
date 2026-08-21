@@ -1,0 +1,38 @@
+{
+  "title": "ITiCSE 2026 WG10: Teamwork in Computing Education — Skills, Values, and Virtues",
+  "description": "Materials, data, and tools produced by ITiCSE 2026 Working Group 10 (WG10), examining how tertiary computing programs can effectively integrate teamwork instruction, with a focus on the skills, values, and virtues students need throughout collaborative projects. Includes a systematic literature review of teamwork in computing and engineering education, screening and data-extraction tables, and the tooling used to run the review.",
+  "creators": [
+    {
+      "name": "Lunn, Stephanie",
+      "affiliation": "Florida International University"
+    },
+    {
+      "name": "Marques Samary, Maíra",
+      "affiliation": "Boston College"
+    }
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-NC-4.0",
+  "keywords": [
+    "computing education",
+    "teamwork",
+    "team-based learning",
+    "skills",
+    "values",
+    "virtues",
+    "systematic literature review",
+    "ITiCSE",
+    "ITiCSE 2026",
+    "working group"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://iticse.acm.org/2026/2026-working-group-proposals/",
+      "resource_type": "publication-preprint"
+    }
+  ],
+  "communities": [],
+  "notes": "Update 'related_identifiers' with the final ITiCSE 2026 WG10 paper DOI once published, and add a 'communities' entry if this record should belong to a Zenodo community."
+}

@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "ITiCSE 2026 WG10: Teamwork in Computing Education — Skills, Values, and Virtues"
+type: dataset
+authors:
+  - family-names: Lunn
+    given-names: Stephanie
+    email: sjlunn@fiu.edu
+    affiliation: Florida International University
+  - family-names: Marques Samary
+    given-names: Maíra
+    email: marquemo@bc.edu
+    affiliation: Boston College
+repository-code: "https://github.com/REPLACE-WITH-GITHUB-USERNAME/ITiCSE2026_Teamwork_Skills-Values-Virtues"
+url: "https://github.com/REPLACE-WITH-GITHUB-USERNAME/ITiCSE2026_Teamwork_Skills-Values-Virtues"
+abstract: >-
+  Materials, data, and tools produced by ITiCSE 2026 Working Group 10 (WG10),
+  examining how tertiary computing programs can effectively integrate
+  teamwork instruction, with a focus on the skills, values, and virtues
+  students need throughout collaborative projects. Includes a systematic
+  literature review of teamwork in computing and engineering education,
+  screening and data-extraction tables, and the tooling used to run the
+  review.
+keywords:
+  - computing education
+  - teamwork
+  - team-based learning
+  - skills
+  - values
+  - virtues
+  - systematic literature review
+  - ITiCSE
+license: CC-BY-NC-4.0
+version: 0.1.0
+date-released: "2026-08-21"

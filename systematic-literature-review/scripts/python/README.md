@@ -12,4 +12,4 @@ Place the local Python scripts here:
 - Load the Zotero API key and Google OAuth credentials from environment variables or a git-ignored config/`credentials.json` file — never hardcode them in the script.
 - Replace any hardcoded absolute local paths (e.g., a specific machine's Zotero storage folder) with a config value or command-line argument.
 
-See [`../../screening-tool-documentation.md`](../../screening-tool-documentation.md) for the full algorithm description and known bug fixes.
+See [`../../data/extraction/screening-tool-documentation.md`](../../data/extraction/screening-tool-documentation.md) for the full algorithm description and known bug fixes.

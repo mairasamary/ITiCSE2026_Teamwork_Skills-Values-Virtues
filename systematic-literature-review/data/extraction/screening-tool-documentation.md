@@ -226,7 +226,7 @@ Several data-integrity issues were discovered and corrected during the project, 
 - `fix_manual_answers.py` — writes PDF Drive links to the Manual Answers tab
 - `list_tabs.py` — diagnostic script to list all tab names in the spreadsheet
 
-Place the actual script files in [`scripts/apps-script/`](scripts/apps-script/) and [`scripts/python/`](scripts/python/) respectively — see the `README.md` in each folder.
+Place the actual script files in [`../../scripts/apps-script/`](../../scripts/apps-script/) and [`../../scripts/python/`](../../scripts/python/) respectively — see the `README.md` in each folder.
 
 ---
 

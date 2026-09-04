@@ -5,7 +5,7 @@ Tooling used to run the systematic literature review's screening and data-manage
 - [`apps-script/`](./apps-script/) — the Google Apps Script project (`Code.gs` + `index.html`) behind the two-reviewer screening web app, plus the automation functions that consolidate, classify, and report on screening progress.
 - [`python/`](./python/) — local Python scripts used to link paper PDFs to spreadsheet rows and to patch data-entry issues.
 
-Full descriptions of what each script does live in [`../screening-tool-documentation.md`](../screening-tool-documentation.md).
+Full descriptions of what each script does live in [`../data/extraction/screening-tool-documentation.md`](../data/extraction/screening-tool-documentation.md).
 
 ## Before committing scripts here
 

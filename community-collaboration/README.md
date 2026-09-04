@@ -55,7 +55,7 @@ All nine resources originate from Purdue's [Competencies Open Educational Resour
 | Writing Effective Prompts for Gemini in Google Workspace | AI prompting guide for the public sector, from Google | [Google Drive](https://drive.google.com/file/d/1CKAF2oPEfrNQxsV7cQMfvQ5wRFKfS9D6/view) — not downloaded here; see note below | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | Intro Questions | Icebreaker / reflection question bank, grouped by theme | [Questions (.xlsx)](./oer-materials/DaleReed_Intro-Questions.xlsx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
-All five items were shared via [this Google Drive folder](https://drive.google.com/drive/folders/1FsA-bT3rBSaBnQOBVBrPM0iVA8wVwudK). The Gemini prompting guide (a large PDF) couldn't be downloaded into this repository; the link above goes to the shared Drive copy instead.
+The Gemini prompting guide (a large PDF) couldn't be downloaded into this repository, so its link above points to the original Google Drive file instead.
 
 <a name="ellie-lovellette"></a>
 ### Ellie Lovellette (lovelletteeb@cofc.edu)
@@ -64,16 +64,12 @@ All five items were shared via [this Google Drive folder](https://drive.google.c
 |---|---|---|---|
 | Advice on Teamwork | Guidance for students on being successful on a team (included in course syllabus) | [Advice (.docx)](./oer-materials/EllieLovellette_AdviceOnTeamwork.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
-Shared via [this Google Drive folder](https://drive.google.com/drive/folders/14rLvlTlDF3nLtiQ7xBe5zkQAJk6WXVZs).
-
 <a name="angela-zavaleta-bernuy"></a>
 ### Angela Zavaleta Bernuy (zavaleta@mcmaster.ca)
 
 | Material | Type | Link(s) | License |
 |---|---|---|---|
 | Team Contract Template | Fill-in template for a team to agree on terms of conduct and cooperation (participation, communication, meetings, conduct, conflict, deadlines) | [Template (.pdf)](./oer-materials/AngelaZavaletaBernuy_Team-Contract.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
-
-Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1Qq8_uuby4aB1qmYgaUVqSsciOwmZJMeW).
 
 <a name="kristin-stephens-martinez"></a>
 ### Kristin Stephens-Martinez (ksm@cs.duke.edu)
@@ -87,7 +83,7 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1Qq
 | CS216 Project: Initial Plan | Assignment page for the team's initial project-planning deliverable | [Assignment (.pdf)](./oer-materials/KristinStephensMartinez_Project-InitialPlan.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | CS216 Forms | Course forms page (late-day tokens, extensions, online-attendance requests) | [Forms (.pdf)](./oer-materials/KristinStephensMartinez_Forms.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
-All six pages are from Duke's CS216 ("Everything Data") course site, shared via [this Google Drive folder](https://drive.google.com/drive/folders/17EDAgqYPupn47hJ8bjrxDCzON2-raVT1).
+All six pages are from Duke's CS216 ("Everything Data") course site.
 
 <a name="heidi-ellis"></a>
 ### Heidi Ellis (heidi.ellis@wne.edu)
@@ -99,8 +95,6 @@ All six pages are from Duke's CS216 ("Everything Data") course site, shared via 
 | Working Agreement (Activity) | TeachingOpenSource activity page preparing students to create a team working agreement | [Activity page (.pdf)](./oer-materials/HeidiEllis_WorkingAgreement-Activity.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | Working Agreement Activity (Original) | In-class activity guiding a team through building the foundation for a Working Agreement (team experience, health signals, psychological safety, accountability) | [Activity (.pdf)](./oer-materials/HeidiEllis_WorkingAgreementActivity-Original.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
-Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1NIGyfG09OFm3Fy7wJ6Dw7-0wD8N17RGf).
-
 <a name="gregory-nelson"></a>
 ### Gregory Nelson (gregory.nelson@maine.edu)
 
@@ -111,8 +105,6 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1NI
 | Shareable Activity: Meet Your Teammates | Team-formation icebreaker activity using a "fast friends" question protocol to build trust among new teammates | [Activity (.docx)](./oer-materials/GregoryNelson_MeetYourTeammates.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | Deliverable 0 / Team Homework 1: Design Your Team | Homework assignment for a new team to define roles (PM, designers, developers) and get organized | [Assignment (.docx)](./oer-materials/GregoryNelson_Deliverable0-DesignYourTeam.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
-Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1YnXf06IC6_P4TQAwp6Lb5JwolSJCx4Og).
-
 <a name="sanaz-nikfalazar"></a>
 ### Sanaz Nikfalazar (sanaz.nikfalazar1@monash.edu)
 
@@ -120,16 +112,12 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1Yn
 |---|---|---|---|
 | Teamwork Resources | Overview of teamwork practices embedded in teaching: Personal User Manuals, student-driven consultations, Team Working Agreements, and the EPIC Platform (a co-designed initiative supporting inclusive, neurodivergent-friendly teamwork) | [Overview (.docx)](./oer-materials/SanazNikfalazar_TeamworkResources.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
-Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1pzMWWepXgkxgsO5pdE0iOkCrJDos5OZu).
-
 <a name="centre-for-teaching-excellence-university-of-waterloo"></a>
 ### Centre for Teaching Excellence, University of Waterloo
 
 | Material | Type | Link(s) | License |
 |---|---|---|---|
 | Making Group Contracts | Teaching tip on guiding students through creating group contracts (ground rules, roles/responsibilities, conflict resolution, peer feedback), with links to templates and samples from other institutions | [Teaching tip (.pdf)](./oer-materials/UWaterlooCTE_MakingGroupContracts.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
-
-Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1bkfmQaOndCE5GycuoeLUGrYTcV1odkiJ).
 
 <a name="eberly-center-cmu"></a>
 ### Eberly Center, Carnegie Mellon University
@@ -139,8 +127,6 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1bk
 | Sample Team Contract | Fill-in team contract template (goals, expectations, policies & procedures, consequences) | [Template (.docx)](./oer-materials/EberlyCenterCMU_TeamContract.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 | Peer Evaluation Form for Group Work | Fill-in peer evaluation form for rating group members on meeting attendance, contribution, and quality of work, plus reflection questions on team dynamics | [Form (.docx)](./oer-materials/EberlyCenterCMU_PeerEvalGroupWork.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
-Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1oehE7mygkh1WVfseMG05i1QKM7lCoQP0).
-
 <a name="google-rework"></a>
 ### Google (re:Work)
 
@@ -148,4 +134,4 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1oe
 |---|---|---|---|
 | Understand Team Effectiveness | Article summarizing Google's Project Aristotle and Project Oxygen research on what makes teams effective | [Article (.pdf)](./oer-materials/Google_ReWork_UnderstandTeamEffectiveness.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
-Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1x9inQ99kaancsd9tt4JJ08EKn6oP52nf). Originally published on [rework.withgoogle.com](https://rework.withgoogle.com/).
+Originally published on [rework.withgoogle.com](https://rework.withgoogle.com/).

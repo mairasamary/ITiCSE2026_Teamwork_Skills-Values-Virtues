@@ -33,7 +33,7 @@ The investigation employs a multi-phase approach:
 3. Identification of best practices and gaps.
 4. Participatory co-design of instructional resources with faculty and students.
 
-See [`methodology/ai-assisted-extraction.md`](./methodology/ai-assisted-extraction.md) and [`systematic-literature-review/data/screening/screening-tool-documentation.md`](../systematic-literature-review/data/screening/screening-tool-documentation.md) for how the literature-review phase (screening and data extraction) was actually carried out.
+See [`systematic-literature-review/data/extraction/ai-assisted-extraction.md`](../systematic-literature-review/data/extraction/ai-assisted-extraction.md) and [`systematic-literature-review/data/screening/screening-tool-documentation.md`](../systematic-literature-review/data/screening/screening-tool-documentation.md) for how the literature-review phase (screening and data extraction) was actually carried out.
 
 ## Working group expectations
 

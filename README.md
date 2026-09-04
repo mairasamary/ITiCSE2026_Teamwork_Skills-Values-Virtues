@@ -60,13 +60,12 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 ├── LICENSE                          Usage terms (CC BY-NC 4.0)
 ├── CITATION.cff                     How to cite this repository
 ├── .zenodo.json                     Metadata used by Zenodo when archiving a GitHub release
-├── docs/                            Project overview, methodology write-ups, and appendices (spans all phases)
+├── docs/                            Project overview and appendices (spans all phases)
 │   ├── project-overview.md            Full WG10 proposal text (purpose, motivation, methodology, expectations)
-│   ├── methodology/                    How the SLR's AI-assisted extraction was designed and run
 │   └── appendices/                     Supplementary appendices referenced in the SLR write-up
 ├── figures/                         Diagrams and screenshots referenced from docs/
 ├── systematic-literature-review/    Phase 1 — SLR: screening/extraction tables, tooling, and the screening write-up
-│   ├── data/                           Screening (Phase 1, 2, snowballing) tables + screening-tool-documentation.md — extraction/ is a placeholder for the future data-extraction codebook
+│   ├── data/                           Screening (Phase 1, 2, snowballing) tables + screening-tool-documentation.md — extraction/ holds the AI-assisted extraction methodology + source materials (extraction table itself pending)
 │   └── scripts/                        Apps Script + Python tooling behind the screening pipeline
 ├── focus-group/                     Focus-group protocol, sessions, and analysis — placeholder
 ├── survey/                          Survey instrument, data, and analysis — placeholder
@@ -75,11 +74,11 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 
 ## What's in each folder
 
-**[`docs/`](./docs/)** — Start here. The full WG10 project overview, plus the AI-assisted extraction methodology write-up and appendices for the systematic literature review (how data was extracted, including the AI-assisted extraction prompts). As the other strands below produce their own write-ups, those can live here too, alongside the SLR ones.
+**[`docs/`](./docs/)** — Start here. The full WG10 project overview, plus appendices for the systematic literature review. The AI-assisted extraction methodology write-up now lives alongside the SLR data it documents, in [`systematic-literature-review/data/extraction/`](./systematic-literature-review/data/extraction/). As the other strands below produce their own write-ups, those can live here too, alongside the SLR ones.
 
 **[`figures/`](./figures/)** — Diagrams and screenshots referenced from `docs/` and from `systematic-literature-review/` (for example, the SLR flow diagram and the screening-tool screenshots referenced in the appendices).
 
-**[`systematic-literature-review/`](./systematic-literature-review/)** — Phase 1 of the methodology above. This is the strand that's populated so far: [`data/screening/screening-tool-documentation.md`](./systematic-literature-review/data/screening/screening-tool-documentation.md) explains how the two-reviewer screening tool and its automation pipeline worked (including the Phase 1 title/abstract screening process), alongside the resulting screening tables and the tooling used to produce them (a paper-screening web app and supporting scripts). The data-extraction codebook table (`data/extraction/`) is a placeholder until that pass is complete.
+**[`systematic-literature-review/`](./systematic-literature-review/)** — Phase 1 of the methodology above. This is the strand that's populated so far: [`data/screening/screening-tool-documentation.md`](./systematic-literature-review/data/screening/screening-tool-documentation.md) explains how the two-reviewer screening tool and its automation pipeline worked (including the Phase 1 title/abstract screening process), alongside the resulting screening tables and the tooling used to produce them (a paper-screening web app and supporting scripts). [`data/extraction/`](./systematic-literature-review/data/extraction/) holds the AI-assisted extraction methodology write-up and its source materials; the structured data-extraction codebook table itself is not yet populated.
 
 **[`focus-group/`](./focus-group/)** — *Placeholder, not yet populated.* Will hold the focus-group protocol, session materials, and thematic analysis from the qualitative educator-perspectives phase of the methodology (objective 2 above).
 

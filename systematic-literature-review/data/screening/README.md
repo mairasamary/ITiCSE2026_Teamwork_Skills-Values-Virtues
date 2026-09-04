@@ -19,10 +19,30 @@ All four tracks are then combined, minus retractions (**G**, n=10), into the fin
 
 | File | Diagram stage | What it contains |
 |---|---|---|
-| `phase1-paper-evaluation-title-abstract.xlsx` | **B** — Total records screened by title and abstract (database query) | The full master screening/tracking workbook (all tabs: `ITiCSE2026-WG10-New`, `Responses`, `Manual Answers`, `Consolidated`, `IN`, `OUT`, `Discussion`, `Judging`, `Status`, `FindDOIProgress`, `FetchProgress`), exported directly from Google Sheets. See [`screening-tool-documentation.md`](./screening-tool-documentation.md) for what each tab means and how they relate. |
-| `phase2-paper-evaluation-full-paper.xlsx` | **C** — Full-text publications assessed for eligibility (database query) | Reviewer decisions from full-text eligibility assessment of the database-query track, following the inclusion/exclusion criteria in [`../extraction/ai-assisted-extraction.md`](../extraction/ai-assisted-extraction.md). |
-| `forward-snowballing.xlsx` | **F** — Forward snowballing (records extracted from citations, screened, and assessed for eligibility) | Screening and eligibility decisions for papers found by checking what cites the already-included papers. |
-| `backward-snowballing.xlsx` | **E** — Backward snowballing (records extracted from references, screened, and assessed for eligibility) | Screening and eligibility decisions for papers found in the reference lists of already-included papers. |
+| [`phase1-paper-evaluation-title-abstract.xlsx`](./phase1-paper-evaluation-title-abstract.xlsx) | **B** — Total records screened by title and abstract (database query) | The full master screening/tracking workbook (all tabs: `ITiCSE2026-WG10-New`, `Responses`, `Manual Answers`, `Consolidated`, `IN`, `OUT`, `Discussion`, `Judging`, `Status`, `FindDOIProgress`, `FetchProgress`), exported directly from Google Sheets. See [`screening-tool-documentation.md`](./screening-tool-documentation.md) for what each tab means and how they relate. |
+| [`phase2-paper-evaluation-full-paper.xlsx`](./phase2-paper-evaluation-full-paper.xlsx) | **C** — Full-text publications assessed for eligibility (database query) | Reviewer decisions from full-text eligibility assessment of the database-query track, following the inclusion/exclusion criteria below. |
+| [`forward-snowballing.xlsx`](./forward-snowballing.xlsx) | **F** — Forward snowballing (records extracted from citations, screened, and assessed for eligibility) | Screening and eligibility decisions for papers found by checking what cites the already-included papers. |
+| [`backward-snowballing.xlsx`](./backward-snowballing.xlsx) | **E** — Backward snowballing (records extracted from references, screened, and assessed for eligibility) | Screening and eligibility decisions for papers found in the reference lists of already-included papers. |
+
+## Inclusion & Exclusion Criteria
+
+Applied during full-text eligibility assessment (**C**):
+
+**Inclusion Criteria (IC)**
+
+- **IC1:** The study population consists primarily of undergraduate students (>50%) in an undergraduate-intended course.
+- **IC2:** The study focuses on teamwork, teaming pedagogy, or team-based pedagogy in computing education.
+- **IC3:** The abstract indicates that the study is relevant to our research questions.
+- **IC4:** The paper was published in 2016 or later.
+
+**Exclusion Criteria (EC)**
+
+- **EC1:** The publication is in a language other than English.
+- **EC2:** The publication has fewer than four pages.
+- **EC3:** The study focuses on educational levels other than higher education (e.g., K-12).
+- **EC4:** The study takes place outside an educational course or module.
+- **EC5:** The full-text publication is unavailable.
+- **EC6:** The publication is a literature review, conceptual paper, or position paper that does not present original results or empirical findings.
 
 ### Notes
 

@@ -6,7 +6,7 @@ This folder holds the reviewer decision tables produced at each stage of the SLR
 
 ## SLR flow diagram
 
-![SLR identification, screening, eligibility, and snowballing flow diagram](../../../figures/slr-prisma-flow-diagram.png)
+![SLR identification, screening, eligibility, and snowballing flow diagram](../../figures/slr-prisma-flow-diagram.png)
 
 The diagram has two parallel tracks that both feed into the final included set (**H**, n=555):
 

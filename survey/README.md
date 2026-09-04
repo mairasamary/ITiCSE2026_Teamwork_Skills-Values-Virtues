@@ -1,6 +1,6 @@
 # Survey
 
-Materials and data for the survey strand of WG10's educator-perspectives work (see [`../docs/project-overview.md`](../docs/project-overview.md) for how this fits into the group's overall methodology).
+Materials and data for the survey strand of WG10's educator-perspectives work (see [`../README.md`](../README.md) for how this fits into the group's overall methodology).
 
 - [`instrument/`](./instrument/) — the survey questionnaire itself (see below).
 - `data/` — not published here; see Participant Confidentiality below.

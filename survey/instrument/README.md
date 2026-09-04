@@ -8,4 +8,4 @@
 - **Personal information** — current institution, years teaching (current institution and total), professional title, and optional gender identity and race/ethnicity questions.
 - **Focus-group follow-up** — an invitation and scheduling link to a follow-up Zoom focus group, with a preview of the discussion questions (skills, values, and virtues definitions and their integration into teaching) — see [`../../focus-group/protocol/`](../../focus-group/protocol/) for the full protocol used in those sessions.
 
-See [`../../docs/project-overview.md`](../../docs/project-overview.md) for how the survey strand fits into the working group's overall methodology.
+See [`../../README.md`](../../README.md) for how the survey strand fits into the working group's overall methodology.

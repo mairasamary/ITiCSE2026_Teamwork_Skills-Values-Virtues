@@ -6,8 +6,8 @@ Each reviewer selected the pair they belonged to for the batch of papers they ha
 
 From the pair selection, each person then identified themselves individually. The tool then showed each reviewer the papers for that pair in alphabetical order by title, with a clear separation between papers still to be done and papers already completed (shown under "Already reviewed").
 
-**Action needed:** the original appendix document (`Appendix SLR-1 (Tool).docx`) contains the actual screenshots referenced above as images, which are not captured by plain-text extraction. Please export those screenshots from the original document and add them to [`../../figures/`](../../figures/), then reference them from this file, e.g.:
+**Action needed:** the original appendix document (`Appendix SLR-1 (Tool).docx`) contains the actual screenshots referenced above as images, which are not captured by plain-text extraction. Please export those screenshots from the original document and add them to [`../figures/`](../figures/), then reference them from this file, e.g.:
 
 ```markdown
-![Screening tool — pair selection step](../../figures/screening-tool-pair-selection.png)
+![Screening tool — pair selection step](../figures/screening-tool-pair-selection.png)
 ```

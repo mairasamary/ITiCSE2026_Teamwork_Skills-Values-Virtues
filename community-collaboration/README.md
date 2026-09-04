@@ -1,6 +1,6 @@
 # Community Collaboration
 
-Materials for the participatory co-design strand of WG10 — developing actionable resources for computing courses together with faculty and students (see [`../docs/project-overview.md`](../docs/project-overview.md) for how this fits into the group's overall methodology).
+Materials for the participatory co-design strand of WG10 — developing actionable resources for computing courses together with faculty and students (see [`../README.md`](../README.md) for how this fits into the group's overall methodology).
 
 - [`oer-materials/`](./oer-materials/) — open educational resources shared by the working group and community collaborators (see the tables below).
 - `working-sessions/` — *placeholder, not yet populated.* Notes and outputs from the in-person ITiCSE 2026 working sessions in Madrid, and any biweekly/subgroup meeting notes.

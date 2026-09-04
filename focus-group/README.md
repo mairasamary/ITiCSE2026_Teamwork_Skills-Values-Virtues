@@ -1,6 +1,6 @@
 # Focus Groups
 
-Materials and data for the focus-group strand of WG10's educator-perspectives work (see [`../docs/project-overview.md`](../docs/project-overview.md) for how this fits into the group's overall methodology).
+Materials and data for the focus-group strand of WG10's educator-perspectives work (see [`../README.md`](../README.md) for how this fits into the group's overall methodology).
 
 - [`protocol/`](./protocol/) — the focus-group script and preparation prompts (see below).
 - `sessions/` — not published here; see Participant Confidentiality below.

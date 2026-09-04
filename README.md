@@ -24,7 +24,11 @@ This working group examines how tertiary computing programs can effectively inte
 - **RQ2.** How do computing and engineering faculty and researchers distinguish successful teamwork?
 - **RQ3.** Which skills, values, and virtues (SVV) do computing and engineering faculty describe as aligning with or supporting teamwork in education?
 
-**Methodology.** The investigation employs a multi-phase approach: a systematic literature review (SLR) of teamwork in computing and engineering education contexts, a qualitative investigation of educator viewpoints, identification of best practices and gaps, and participatory co-design of instructional resources with faculty and students.
+**Methodology.** The investigation employs a multi-phase approach: a systematic literature review (SLR) of teamwork in computing and engineering education contexts, a qualitative investigation of educator viewpoints, identification of best practices and gaps, and participatory co-design of instructional resources with faculty and students. See [`systematic-literature-review/data/extraction/ai-assisted-extraction.md`](./systematic-literature-review/data/extraction/ai-assisted-extraction.md) and [`systematic-literature-review/data/screening/screening-tool-documentation.md`](./systematic-literature-review/data/screening/screening-tool-documentation.md) for how the literature-review phase (screening and data extraction) was actually carried out.
+
+**Working group expectations.** Members commit approximately 3–4 hours weekly for four months pre- and post-conference, participate in biweekly virtual meetings and weekly subgroup sessions, and attend the in-person intensive working sessions at ITiCSE 2026 in Madrid.
+
+**Desired participants.** The group welcomes international educators with experience in team project instruction, particularly early-career researchers and first-time participants willing to recruit colleagues for research participation.
 
 ## Working Group Members
 
@@ -60,12 +64,10 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 ├── LICENSE                          Usage terms (CC BY-NC 4.0)
 ├── CITATION.cff                     How to cite this repository
 ├── .zenodo.json                     Metadata used by Zenodo when archiving a GitHub release
-├── docs/                            Project overview and appendices (spans all phases)
-│   ├── project-overview.md            Full WG10 proposal text (purpose, motivation, methodology, expectations)
-│   └── appendices/                     Supplementary appendices referenced in the SLR write-up
-├── figures/                         Diagrams and screenshots referenced from docs/
-├── systematic-literature-review/    Phase 1 — SLR: screening/extraction tables, tooling, and the screening write-up
+├── systematic-literature-review/    Phase 1 — SLR: screening/extraction tables, tooling, appendices, figures, and the screening write-up
 │   ├── data/                           Screening (Phase 1, 2, snowballing) tables + screening-tool-documentation.md — extraction/ holds the AI-assisted extraction methodology + source materials (extraction table itself pending)
+│   ├── appendices/                     Supplementary appendices referenced in the SLR write-up
+│   ├── figures/                        Diagrams and screenshots referenced from the appendices and the SLR data
 │   └── scripts/                        Apps Script + Python tooling behind the screening pipeline
 ├── focus-group/                     Focus-group protocol (script + preparation prompts) — sessions and analysis still placeholders
 ├── survey/                          Survey instrument (pre-survey) — data and analysis still placeholders
@@ -74,11 +76,7 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 
 ## What's in each folder
 
-**[`docs/`](./docs/)** — Start here. The full WG10 project overview, plus appendices for the systematic literature review. The AI-assisted extraction methodology write-up now lives alongside the SLR data it documents, in [`systematic-literature-review/data/extraction/`](./systematic-literature-review/data/extraction/). As the other strands below produce their own write-ups, those can live here too, alongside the SLR ones.
-
-**[`figures/`](./figures/)** — Diagrams and screenshots referenced from `docs/` and from `systematic-literature-review/` (for example, the SLR flow diagram and the screening-tool screenshots referenced in the appendices).
-
-**[`systematic-literature-review/`](./systematic-literature-review/)** — Phase 1 of the methodology above. This is the strand that's populated so far: [`data/screening/screening-tool-documentation.md`](./systematic-literature-review/data/screening/screening-tool-documentation.md) explains how the two-reviewer screening tool and its automation pipeline worked (including the Phase 1 title/abstract screening process), alongside the resulting screening tables and the tooling used to produce them (a paper-screening web app and supporting scripts). [`data/extraction/`](./systematic-literature-review/data/extraction/) holds the write-up and source materials from an AI-assisted extraction approach that was explored but not used in the study.
+**[`systematic-literature-review/`](./systematic-literature-review/)** — Phase 1 of the methodology above. This is the strand that's populated so far: [`data/screening/screening-tool-documentation.md`](./systematic-literature-review/data/screening/screening-tool-documentation.md) explains how the two-reviewer screening tool and its automation pipeline worked (including the Phase 1 title/abstract screening process), alongside the resulting screening tables and the tooling used to produce them (a paper-screening web app and supporting scripts). [`data/extraction/`](./systematic-literature-review/data/extraction/) holds the write-up and source materials from an AI-assisted extraction approach that was explored but not used in the study. [`appendices/`](./systematic-literature-review/appendices/) holds supplementary appendices referenced from the SLR write-up, and [`figures/`](./systematic-literature-review/figures/) holds the diagrams and screenshots referenced from those appendices and from the SLR data (for example, the PRISMA flow diagram).
 
 **[`focus-group/`](./focus-group/)** — Part of the qualitative educator-perspectives phase of the methodology (objective 2 above). [`protocol/`](./focus-group/protocol/) holds the approved moderator script and the participant preparation prompts (including the study's working definitions of skills, values, and virtues). Session materials and thematic analysis are still placeholders.
 

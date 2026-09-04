@@ -2,8 +2,8 @@
 
 Tables produced by the systematic literature review live here, organized by phase:
 
-- [`screening/`](./screening/) — Phase 1 outputs: the IN / OUT / Discussion / Judging tables produced by the two-reviewer screening process (see [`extraction/screening-tool-documentation.md`](extraction/screening-tool-documentation.md)).
-- [`extraction/`](./extraction/) — Phase 2 outputs: the structured data-extraction table, one row per included paper (see [`../../docs/methodology/ai-assisted-extraction.md`](../../docs/methodology/ai-assisted-extraction.md) for the field definitions).
+- [`screening/`](./screening/) — the reviewer screening/eligibility decision tables for all four SLR tracks (Phase 1 title/abstract, Phase 2 full-text, forward snowballing, backward snowballing), plus [`screening-tool-documentation.md`](./screening/screening-tool-documentation.md), the write-up of how the screening tool and its pipeline worked. See [`screening/README.md`](./screening/README.md) for what each file is and how it maps to the SLR flow diagram.
+- [`extraction/`](./extraction/) — *placeholder, not yet populated.* Reserved for the structured data-extraction table: one row per included paper, one column per codebook field (country, institution type, skills/values/virtues named, assessment methods, etc.), per the field definitions in [`../../docs/methodology/ai-assisted-extraction.md`](../../docs/methodology/ai-assisted-extraction.md). This is a distinct stage from the screening decisions in `screening/` — extraction happens only for the 555 papers that made it through screening.
 
 ## Formats
 

@@ -66,7 +66,7 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 │   └── appendices/                     Supplementary appendices referenced in the SLR write-up
 ├── figures/                         Diagrams and screenshots referenced from docs/
 ├── systematic-literature-review/    Phase 1 — SLR: screening/extraction tables, tooling, and the screening write-up
-│   ├── data/                           Screening (Phase 1) + extraction (Phase 2) tables — extraction/ also holds screening-tool-documentation.md
+│   ├── data/                           Screening (Phase 1, 2, snowballing) tables + screening-tool-documentation.md — extraction/ is a placeholder for the future data-extraction codebook
 │   └── scripts/                        Apps Script + Python tooling behind the screening pipeline
 ├── focus-group/                     Focus-group protocol, sessions, and analysis — placeholder
 ├── survey/                          Survey instrument, data, and analysis — placeholder
@@ -79,7 +79,7 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 
 **[`figures/`](./figures/)** — Diagrams and screenshots referenced from `docs/` and from `systematic-literature-review/` (for example, the SLR flow diagram and the screening-tool screenshots referenced in the appendices).
 
-**[`systematic-literature-review/`](./systematic-literature-review/)** — Phase 1 of the methodology above. This is the strand that's populated so far: [`data/extraction/screening-tool-documentation.md`](./systematic-literature-review/data/extraction/screening-tool-documentation.md) explains how the two-reviewer screening tool and its automation pipeline worked (including the Phase 1 title/abstract screening process), alongside the resulting screening and data-extraction tables and the tooling used to produce them (a paper-screening web app and supporting scripts).
+**[`systematic-literature-review/`](./systematic-literature-review/)** — Phase 1 of the methodology above. This is the strand that's populated so far: [`data/screening/screening-tool-documentation.md`](./systematic-literature-review/data/screening/screening-tool-documentation.md) explains how the two-reviewer screening tool and its automation pipeline worked (including the Phase 1 title/abstract screening process), alongside the resulting screening tables and the tooling used to produce them (a paper-screening web app and supporting scripts). The data-extraction codebook table (`data/extraction/`) is a placeholder until that pass is complete.
 
 **[`focus-group/`](./focus-group/)** — *Placeholder, not yet populated.* Will hold the focus-group protocol, session materials, and thematic analysis from the qualitative educator-perspectives phase of the methodology (objective 2 above).
 

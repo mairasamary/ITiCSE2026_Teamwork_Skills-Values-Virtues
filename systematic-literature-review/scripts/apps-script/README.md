@@ -10,4 +10,4 @@ Place the actual Google Apps Script project files here:
 
 You can export an Apps Script project to local files with [`clasp`](https://github.com/google/clasp) (`clasp clone <scriptId>` / `clasp pull`), which keeps this folder in sync with the live project.
 
-See [`../../../docs/methodology/screening-tool-documentation.md`](../../../docs/methodology/screening-tool-documentation.md) for what each function does.
+See [`../../screening-tool-documentation.md`](../../screening-tool-documentation.md) for what each function does.

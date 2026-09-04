@@ -157,7 +157,7 @@ The final screening and extraction results produced from this second iteration a
 
 ## Related process documentation
 
-- [`screening-tool-documentation.md`](./screening-tool-documentation.md) — the custom paper-screening web app and automation pipeline built to manage two-reviewer screening across the ~11,000-paper corpus.
+- [`screening-tool-documentation.md`](../../systematic-literature-review/screening-tool-documentation.md) — the custom paper-screening web app and automation pipeline built to manage two-reviewer screening across the ~11,000-paper corpus.
 - [`../appendices/`](../appendices/) — supplementary appendices with screenshots and reference links from the SLR process.
 
 *Full AI chat transcripts (Claude and Perplexity sessions) referenced in the group's working notes are retained in the project's private Google Drive rather than mirrored verbatim in this public repository, since they largely restate what's summarized above and may contain drafting artifacts not meant for publication. Reach out to the organizers if you need access for review purposes.*

@@ -62,10 +62,11 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 ├── .zenodo.json                     Metadata used by Zenodo when archiving a GitHub release
 ├── docs/                            Project overview, methodology write-ups, and appendices (spans all phases)
 │   ├── project-overview.md            Full WG10 proposal text (purpose, motivation, methodology, expectations)
-│   ├── methodology/                    How the SLR and its AI-assisted extraction were designed and run
+│   ├── methodology/                    How the SLR's AI-assisted extraction was designed and run
 │   └── appendices/                     Supplementary appendices referenced in the SLR write-up
 ├── figures/                         Diagrams and screenshots referenced from docs/
-├── systematic-literature-review/    Phase 1 — SLR: screening and extraction tables, plus the tooling behind them
+├── systematic-literature-review/    Phase 1 — SLR: screening/extraction tables, tooling, and the screening write-up
+│   ├── screening-tool-documentation.md How the two-reviewer screening tool, its pipeline, and data fixes worked
 │   ├── data/                           Screening (Phase 1) and extraction (Phase 2) tables
 │   └── scripts/                        Apps Script + Python tooling behind the screening pipeline
 ├── focus-group/                     Focus-group protocol, sessions, and analysis — placeholder
@@ -75,11 +76,11 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 
 ## What's in each folder
 
-**[`docs/`](./docs/)** — Start here. The full WG10 project overview, plus the methodology write-ups and appendices for the systematic literature review (how papers were screened and how data was extracted, including the AI-assisted extraction prompts). As the other strands below produce their own write-ups, those can live here too, alongside the SLR ones.
+**[`docs/`](./docs/)** — Start here. The full WG10 project overview, plus the AI-assisted extraction methodology write-up and appendices for the systematic literature review (how data was extracted, including the AI-assisted extraction prompts). As the other strands below produce their own write-ups, those can live here too, alongside the SLR ones.
 
-**[`figures/`](./figures/)** — Diagrams and screenshots referenced from `docs/` (for example, the screening-tool screenshots referenced in the appendices).
+**[`figures/`](./figures/)** — Diagrams and screenshots referenced from `docs/` and from `systematic-literature-review/` (for example, the SLR flow diagram and the screening-tool screenshots referenced in the appendices).
 
-**[`systematic-literature-review/`](./systematic-literature-review/)** — Phase 1 of the methodology above. This is the strand that's populated so far: the resulting screening and data-extraction tables, and the tooling used to produce them (a paper-screening web app and supporting scripts). The write-up describing this process lives in `docs/methodology/`, not here.
+**[`systematic-literature-review/`](./systematic-literature-review/)** — Phase 1 of the methodology above. This is the strand that's populated so far: [`screening-tool-documentation.md`](./systematic-literature-review/screening-tool-documentation.md) explains how the two-reviewer screening tool and its automation pipeline worked (including the Phase 1 title/abstract screening process), alongside the resulting screening and data-extraction tables and the tooling used to produce them (a paper-screening web app and supporting scripts).
 
 **[`focus-group/`](./focus-group/)** — *Placeholder, not yet populated.* Will hold the focus-group protocol, session materials, and thematic analysis from the qualitative educator-perspectives phase of the methodology (objective 2 above).
 

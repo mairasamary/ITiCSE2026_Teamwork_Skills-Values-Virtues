@@ -1,6 +1,6 @@
 # Phase 1 — Screening Tables
 
-Place the Phase 1 screening exports here: the IN, OUT, Discussion, and Judging tables described in [`../../../docs/methodology/screening-tool-documentation.md`](../../../docs/methodology/screening-tool-documentation.md).
+Place the Phase 1 screening exports here: the IN, OUT, Discussion, and Judging tables described in [`../../screening-tool-documentation.md`](../../screening-tool-documentation.md).
 
 Suggested files:
 

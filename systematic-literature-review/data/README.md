@@ -2,7 +2,7 @@
 
 Tables produced by the systematic literature review live here, organized by phase:
 
-- [`screening/`](./screening/) — Phase 1 outputs: the IN / OUT / Discussion / Judging tables produced by the two-reviewer screening process (see [`../../docs/methodology/screening-tool-documentation.md`](../../docs/methodology/screening-tool-documentation.md)).
+- [`screening/`](./screening/) — Phase 1 outputs: the IN / OUT / Discussion / Judging tables produced by the two-reviewer screening process (see [`../screening-tool-documentation.md`](../screening-tool-documentation.md)).
 - [`extraction/`](./extraction/) — Phase 2 outputs: the structured data-extraction table, one row per included paper (see [`../../docs/methodology/ai-assisted-extraction.md`](../../docs/methodology/ai-assisted-extraction.md) for the field definitions).
 
 ## Formats

@@ -11,6 +11,23 @@ Materials for the participatory co-design strand of WG10 — developing actionab
 
 Materials contributed to the working group by community collaborators, grouped by contributor. Each entry links to the downloaded file(s) in [`oer-materials/`](./oer-materials/) (or to the resource itself, where it has no downloadable file) and to the original source.
 
+### Materials by Type
+
+A quick index into the tables below, grouped by what kind of material it is rather than who shared it. Click a contributor to jump to their table.
+
+| Material Type | What's included | Contributors |
+|---|---|---|
+| Team contracts & working agreements | Fill-in templates and activities for a team to set expectations, roles, and ground rules | [Angela Zavaleta Bernuy](#angela-zavaleta-bernuy) · [Heidi Ellis](#heidi-ellis) · [Eberly Center, CMU](#eberly-center-cmu) · [Centre for Teaching Excellence, UWaterloo](#centre-for-teaching-excellence-university-of-waterloo) |
+| Peer & self evaluation | Rubrics and forms for rating self/peer contributions to group work | [Stephen Frezza](#stephen-frezza) · [Eberly Center, CMU](#eberly-center-cmu) |
+| Case studies & interactive activities (H5P) | Scenario-based interactive learning activities on workplace ethics, respect, and feedback | [Stephen Frezza](#stephen-frezza) |
+| Team formation & icebreakers | Activities to help new teams build trust and get to know one another | [Gregory Nelson](#gregory-nelson) · [Ellie Lovellette](#ellie-lovellette) |
+| Task & project management | Guides and assignments on managing tasks, sprints, and quality checking on a team | [Gregory Nelson](#gregory-nelson) · [Heidi Ellis](#heidi-ellis) |
+| Course pages (syllabi, policies, resources) | Full course-site pages covering policies, syllabus, resources, forms, and assignments | [Kristin Stephens-Martinez](#kristin-stephens-martinez) · [Dale Reed](#dale-reed) |
+| Instructional guides & teaching tips | Guides and articles on pedagogy, teamwork practices, and facilitation | [Stephen Frezza](#stephen-frezza) · [Dale Reed](#dale-reed) · [Centre for Teaching Excellence, UWaterloo](#centre-for-teaching-excellence-university-of-waterloo) · [Google (re:Work)](#google-rework) |
+| Reflection prompts & question banks | Icebreaker and reflection question sets, grouped by theme | [Stephen Frezza](#stephen-frezza) · [Dale Reed](#dale-reed) · [Sanaz Nikfalazar](#sanaz-nikfalazar) |
+| Video | Recorded video content | [Stephen Frezza](#stephen-frezza) |
+
+<a name="stephen-frezza"></a>
 ### Stephen Frezza (SFrezza@franciscan.edu)
 
 | Material | Type | Link(s) | License |
@@ -27,6 +44,7 @@ Materials contributed to the working group by community collaborators, grouped b
 
 All nine resources originate from Purdue's [Competencies Open Educational Resources repository](https://competencies.education.purdue.edu/open-educational-resources/) and are shared here under the license stated on each source page: Creative Commons Attribution-NonCommercial (CC BY-NC).
 
+<a name="dale-reed"></a>
 ### Dale Reed (reed@uic.edu, dalereeduic@gmail.com)
 
 | Material | Type | Link(s) | License |
@@ -39,6 +57,7 @@ All nine resources originate from Purdue's [Competencies Open Educational Resour
 
 All five items were shared via [this Google Drive folder](https://drive.google.com/drive/folders/1FsA-bT3rBSaBnQOBVBrPM0iVA8wVwudK). The Gemini prompting guide (a large PDF) couldn't be downloaded into this repository; the link above goes to the shared Drive copy instead.
 
+<a name="ellie-lovellette"></a>
 ### Ellie Lovellette (lovelletteeb@cofc.edu)
 
 | Material | Type | Link(s) | License |
@@ -47,6 +66,7 @@ All five items were shared via [this Google Drive folder](https://drive.google.c
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/14rLvlTlDF3nLtiQ7xBe5zkQAJk6WXVZs).
 
+<a name="angela-zavaleta-bernuy"></a>
 ### Angela Zavaleta Bernuy (zavaleta@mcmaster.ca)
 
 | Material | Type | Link(s) | License |
@@ -55,6 +75,7 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/14r
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1Qq8_uuby4aB1qmYgaUVqSsciOwmZJMeW).
 
+<a name="kristin-stephens-martinez"></a>
 ### Kristin Stephens-Martinez (ksm@cs.duke.edu)
 
 | Material | Type | Link(s) | License |
@@ -68,6 +89,7 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1Qq
 
 All six pages are from Duke's CS216 ("Everything Data") course site, shared via [this Google Drive folder](https://drive.google.com/drive/folders/17EDAgqYPupn47hJ8bjrxDCzON2-raVT1).
 
+<a name="heidi-ellis"></a>
 ### Heidi Ellis (heidi.ellis@wne.edu)
 
 | Material | Type | Link(s) | License |
@@ -79,6 +101,7 @@ All six pages are from Duke's CS216 ("Everything Data") course site, shared via 
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1NIGyfG09OFm3Fy7wJ6Dw7-0wD8N17RGf).
 
+<a name="gregory-nelson"></a>
 ### Gregory Nelson (gregory.nelson@maine.edu)
 
 | Material | Type | Link(s) | License |
@@ -90,6 +113,7 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1NI
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1YnXf06IC6_P4TQAwp6Lb5JwolSJCx4Og).
 
+<a name="sanaz-nikfalazar"></a>
 ### Sanaz Nikfalazar (sanaz.nikfalazar1@monash.edu)
 
 | Material | Type | Link(s) | License |
@@ -98,6 +122,7 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1Yn
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1pzMWWepXgkxgsO5pdE0iOkCrJDos5OZu).
 
+<a name="centre-for-teaching-excellence-university-of-waterloo"></a>
 ### Centre for Teaching Excellence, University of Waterloo
 
 | Material | Type | Link(s) | License |
@@ -106,6 +131,7 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1pz
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1bkfmQaOndCE5GycuoeLUGrYTcV1odkiJ).
 
+<a name="eberly-center-cmu"></a>
 ### Eberly Center, Carnegie Mellon University
 
 | Material | Type | Link(s) | License |
@@ -115,6 +141,7 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1bk
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1oehE7mygkh1WVfseMG05i1QKM7lCoQP0).
 
+<a name="google-rework"></a>
 ### Google (re:Work)
 
 | Material | Type | Link(s) | License |

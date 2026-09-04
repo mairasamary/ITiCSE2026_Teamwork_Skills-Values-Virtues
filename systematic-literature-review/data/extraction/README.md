@@ -1,5 +1,30 @@
-# Phase 2 — Data Extraction Tables
+# Phase 1 & 2 — Screening and Snowballing Data-Extraction Tables
 
-Place the Phase 2 data-extraction table(s) here (one row per included paper, one column per extraction field — see [`../../../docs/methodology/ai-assisted-extraction.md`](../../../docs/methodology/ai-assisted-extraction.md) for the field definitions and the two extraction iterations).
+This folder holds the reviewer decision tables produced at each stage of the SLR, alongside the tables from the backward/forward snowballing passes. The diagram below (a PRISMA-style flow diagram) shows how these stages connect, and each table below is labeled with the diagram box(es) it corresponds to.
 
-Suggested file: `phase2_extraction.csv` (plus an `.xlsx` copy if needed for formatting).
+## SLR flow diagram
+
+![SLR identification, screening, eligibility, and snowballing flow diagram](../../../figures/slr-prisma-flow-diagram.png)
+
+The diagram has two parallel tracks that both feed into the final included set (**H**, n=555):
+
+- **Database Query** (left, green) — records identified via ACM, IEEE Xplore, and Scopus, then deduplicated, screened by title/abstract (**B**), and assessed full-text (**C**), producing the publications included from the databases (**D**, n=384).
+- **Snowballing** (right, yellow) — records pulled from the reference lists (**Backward**, **E**) and citing works (**Forward**, **F**) of already-included papers, each going through its own duplicate-removal, title/abstract screening, and full-text eligibility pass.
+
+All four tracks are then combined, minus retractions (**G**, n=10), into the final included set (**H**).
+
+## Tables in this folder
+
+| File | Diagram stage | What it contains |
+|---|---|---|
+| `phase1-paper-evaluation-title-abstract.xlsx` | **B** — Total records screened by title and abstract (database query) | *Pending — see note below.* Reviewer screening decisions (Y/N/Maybe per the 7-question protocol) for the database-query track. This is the master screening/tracking workbook described in [`../../../docs/methodology/screening-tool-documentation.md`](../../../docs/methodology/screening-tool-documentation.md). |
+| `phase2-paper-evaluation-full-paper.xlsx` | **C** — Full-text publications assessed for eligibility (database query) | Reviewer decisions from full-text eligibility assessment of the database-query track, following the inclusion/exclusion criteria in [`../../../docs/methodology/ai-assisted-extraction.md`](../../../docs/methodology/ai-assisted-extraction.md). |
+| `forward-snowballing.xlsx` | **F** — Forward snowballing (records extracted from citations, screened, and assessed for eligibility) | Screening and eligibility decisions for papers found by checking what cites the already-included papers. |
+| `backward-snowballing.xlsx` | **E** — Backward snowballing (records extracted from references, screened, and assessed for eligibility) | *Pending — see note below.* Screening and eligibility decisions for papers found in the reference lists of already-included papers. |
+
+### Notes / open items
+
+- **`phase1-paper-evaluation-title-abstract.xlsx` is not yet in this folder.** The source spreadsheet (the master ITiCSE2026-WG10 tracking workbook — ~11,000 rows across multiple tabs) is too large for an automated export (Google Drive's export API rejected it as "file too large"). Options: export just the relevant tab from Google Sheets as CSV by hand (File → Download → the specific sheet → Comma Separated Values) and add that here, or keep it linked from Google Drive/Zenodo only (see [`../README.md`](../README.md) on large-file handling) rather than committing the full multi-tab workbook to git.
+- **`backward-snowballing.xlsx` is not yet in this folder** — its source link wasn't provided yet.
+
+For the Phase 2 field definitions and both AI-assisted extraction iterations, see [`../../../docs/methodology/ai-assisted-extraction.md`](../../../docs/methodology/ai-assisted-extraction.md). For how the screening tool and its pipeline work, see [`../../../docs/methodology/screening-tool-documentation.md`](../../../docs/methodology/screening-tool-documentation.md).

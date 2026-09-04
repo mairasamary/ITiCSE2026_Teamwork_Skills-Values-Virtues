@@ -69,7 +69,7 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 │   └── scripts/                        Apps Script + Python tooling behind the screening pipeline
 ├── focus-group/                     Focus-group protocol (script + preparation prompts) — sessions and analysis still placeholders
 ├── survey/                          Survey instrument (pre-survey) — data and analysis still placeholders
-└── community-collaboration/         Participatory co-design resources and working-session notes — placeholder
+└── community-collaboration/         OER materials shared by community collaborators — working-session notes and feedback still placeholders
 ```
 
 ## What's in each folder
@@ -84,7 +84,7 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 
 **[`survey/`](./survey/)** — Part of the same qualitative educator-perspectives phase. [`instrument/`](./survey/instrument/) holds the pre-survey sent to computing educators (academic and industry teamwork background, open-ended questions, demographics, and the focus-group invitation). De-identified response data and analysis are still placeholders.
 
-**[`community-collaboration/`](./community-collaboration/)** — *Placeholder, not yet populated.* Will hold the resources, working-session notes, and community feedback from the participatory co-design phase (objective 4 above).
+**[`community-collaboration/`](./community-collaboration/)** — Part of the participatory co-design phase (objective 4 above). [`oer-materials/`](./community-collaboration/oer-materials/) holds open educational resources shared by community collaborators, with a table of contributors, material types, links, and licenses in the folder's [README](./community-collaboration/README.md). Working-session notes and community feedback are still placeholders.
 
 Each folder has its own `README.md` with more detail on its contents (or suggested contents, for the parts still placeholders) and any data-handling notes (for example, de-identifying participant data from focus groups and surveys before it's committed).
 

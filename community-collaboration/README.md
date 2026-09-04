@@ -114,3 +114,11 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1bk
 | Peer Evaluation Form for Group Work | Fill-in peer evaluation form for rating group members on meeting attendance, contribution, and quality of work, plus reflection questions on team dynamics | [Form (.docx)](./oer-materials/EberlyCenterCMU_PeerEvalGroupWork.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1oehE7mygkh1WVfseMG05i1QKM7lCoQP0).
+
+### Google (re:Work)
+
+| Material | Type | Link(s) | License |
+|---|---|---|---|
+| Understand Team Effectiveness | Article summarizing Google's Project Aristotle and Project Oxygen research on what makes teams effective | [Article (.pdf)](./oer-materials/Google_ReWork_UnderstandTeamEffectiveness.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+
+Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1x9inQ99kaancsd9tt4JJ08EKn6oP52nf). Originally published on [rework.withgoogle.com](https://rework.withgoogle.com/).

@@ -31,19 +31,19 @@ All nine resources originate from Purdue's [Competencies Open Educational Resour
 
 | Material | Type | Link(s) | License |
 |---|---|---|---|
-| Data+AI Course Resources | Curated resource list for the Data+AI course (STAR-story guide, prompting guide, course-site links, evaluations) | [Resources (.pdf)](./oer-materials/DaleReed_Spring26-DataAI-Resources.pdf) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — stated on the source page |
-| Data+AI Course Overview | Course overview / syllabus page (Spring '26 Data+AI, UIC) | [Overview (.pdf)](./oer-materials/DaleReed_Spring26-DataAI.pdf) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — stated on the source page |
-| How to Tell a STAR Story | Career-prep guide on the STAR (Situation, Task, Action, Result) interview-story format, from Carnegie Mellon's Tepper Masters Career Center | [Guide (.pdf)](./oer-materials/DaleReed_star-story.pdf) | Not stated (third-party material) |
-| Writing Effective Prompts for Gemini in Google Workspace | AI prompting guide for the public sector, from Google | [Google Drive](https://drive.google.com/file/d/1CKAF2oPEfrNQxsV7cQMfvQ5wRFKfS9D6/view) — not downloaded here; see note below | Not stated (third-party material) |
-| Intro Questions | Icebreaker / reflection question bank, grouped by theme | [Questions (.xlsx)](./oer-materials/DaleReed_Intro-Questions.xlsx) | Not stated |
+| Data+AI Course Resources | Curated resource list for the Data+AI course (STAR-story guide, prompting guide, course-site links, evaluations) | [Resources (.pdf)](./oer-materials/DaleReed_Spring26-DataAI-Resources.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| Data+AI Course Overview | Course overview / syllabus page (Spring '26 Data+AI, UIC) | [Overview (.pdf)](./oer-materials/DaleReed_Spring26-DataAI.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| How to Tell a STAR Story | Career-prep guide on the STAR (Situation, Task, Action, Result) interview-story format, from Carnegie Mellon's Tepper Masters Career Center | [Guide (.pdf)](./oer-materials/DaleReed_star-story.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| Writing Effective Prompts for Gemini in Google Workspace | AI prompting guide for the public sector, from Google | [Google Drive](https://drive.google.com/file/d/1CKAF2oPEfrNQxsV7cQMfvQ5wRFKfS9D6/view) — not downloaded here; see note below | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| Intro Questions | Icebreaker / reflection question bank, grouped by theme | [Questions (.xlsx)](./oer-materials/DaleReed_Intro-Questions.xlsx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
-All five items were shared via [this Google Drive folder](https://drive.google.com/drive/folders/1FsA-bT3rBSaBnQOBVBrPM0iVA8wVwudK). Two of the items — the Data+AI course pages — state their own reuse license (CC BY-SA 4.0); the STAR-story guide, the Gemini prompting guide, and the Intro Questions spreadsheet don't state a license, so none is asserted here. The Gemini prompting guide (a large PDF) couldn't be downloaded into this repository; the link above goes to the shared Drive copy instead.
+All five items were shared via [this Google Drive folder](https://drive.google.com/drive/folders/1FsA-bT3rBSaBnQOBVBrPM0iVA8wVwudK). The Gemini prompting guide (a large PDF) couldn't be downloaded into this repository; the link above goes to the shared Drive copy instead.
 
 ### Ellie Lovellette (lovelletteeb@cofc.edu)
 
 | Material | Type | Link(s) | License |
 |---|---|---|---|
-| Advice on Teamwork | Guidance for students on being successful on a team (included in course syllabus) | [Advice (.docx)](./oer-materials/EllieLovellette_AdviceOnTeamwork.docx) | Not stated |
+| Advice on Teamwork | Guidance for students on being successful on a team (included in course syllabus) | [Advice (.docx)](./oer-materials/EllieLovellette_AdviceOnTeamwork.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/14rLvlTlDF3nLtiQ7xBe5zkQAJk6WXVZs).
 
@@ -51,6 +51,19 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/14r
 
 | Material | Type | Link(s) | License |
 |---|---|---|---|
-| Team Contract Template | Fill-in template for a team to agree on terms of conduct and cooperation (participation, communication, meetings, conduct, conflict, deadlines) | [Template (.pdf)](./oer-materials/AngelaZavaletaBernuy_Team-Contract.pdf) | Not stated |
+| Team Contract Template | Fill-in template for a team to agree on terms of conduct and cooperation (participation, communication, meetings, conduct, conflict, deadlines) | [Template (.pdf)](./oer-materials/AngelaZavaletaBernuy_Team-Contract.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1Qq8_uuby4aB1qmYgaUVqSsciOwmZJMeW).
+
+### Kristin Stephens-Martinez (ksm@cs.duke.edu)
+
+| Material | Type | Link(s) | License |
+|---|---|---|---|
+| CS216 Policies | Course policies page (collaboration, AI-use disclosure requirements) | [Policies (.pdf)](./oer-materials/KristinStephensMartinez_Policies.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| CS216 Syllabus | Course syllabus page (hybrid/flipped/just-in-time course structure, modules, grading) | [Syllabus (.pdf)](./oer-materials/KristinStephensMartinez_Syllabus.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| CS216 Resources | Course resources page (tooling setup, data-science references, support resources) | [Resources (.pdf)](./oer-materials/KristinStephensMartinez_Resources.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| CS216 Project: Group Formation | Assignment page for forming the course's collaborative final-project teams | [Assignment (.pdf)](./oer-materials/KristinStephensMartinez_Project-GroupFormation.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| CS216 Project: Initial Plan | Assignment page for the team's initial project-planning deliverable | [Assignment (.pdf)](./oer-materials/KristinStephensMartinez_Project-InitialPlan.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| CS216 Forms | Course forms page (late-day tokens, extensions, online-attendance requests) | [Forms (.pdf)](./oer-materials/KristinStephensMartinez_Forms.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+
+All six pages are from Duke's CS216 ("Everything Data") course site, shared via [this Google Drive folder](https://drive.google.com/drive/folders/17EDAgqYPupn47hJ8bjrxDCzON2-raVT1).

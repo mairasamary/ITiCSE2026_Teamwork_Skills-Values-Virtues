@@ -38,3 +38,19 @@ All nine resources originate from Purdue's [Competencies Open Educational Resour
 | Intro Questions | Icebreaker / reflection question bank, grouped by theme | [Questions (.xlsx)](./oer-materials/DaleReed_Intro-Questions.xlsx) | Not stated |
 
 All five items were shared via [this Google Drive folder](https://drive.google.com/drive/folders/1FsA-bT3rBSaBnQOBVBrPM0iVA8wVwudK). Two of the items — the Data+AI course pages — state their own reuse license (CC BY-SA 4.0); the STAR-story guide, the Gemini prompting guide, and the Intro Questions spreadsheet don't state a license, so none is asserted here. The Gemini prompting guide (a large PDF) couldn't be downloaded into this repository; the link above goes to the shared Drive copy instead.
+
+### Ellie Lovellette (lovelletteeb@cofc.edu)
+
+| Material | Type | Link(s) | License |
+|---|---|---|---|
+| Advice on Teamwork | Guidance for students on being successful on a team (included in course syllabus) | [Advice (.docx)](./oer-materials/EllieLovellette_AdviceOnTeamwork.docx) | Not stated |
+
+Shared via [this Google Drive folder](https://drive.google.com/drive/folders/14rLvlTlDF3nLtiQ7xBe5zkQAJk6WXVZs).
+
+### Angela Zavaleta Bernuy (zavaleta@mcmaster.ca)
+
+| Material | Type | Link(s) | License |
+|---|---|---|---|
+| Team Contract Template | Fill-in template for a team to agree on terms of conduct and cooperation (participation, communication, meetings, conduct, conflict, deadlines) | [Template (.pdf)](./oer-materials/AngelaZavaletaBernuy_Team-Contract.pdf) | Not stated |
+
+Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1Qq8_uuby4aB1qmYgaUVqSsciOwmZJMeW).

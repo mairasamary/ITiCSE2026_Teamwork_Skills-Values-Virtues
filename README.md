@@ -67,7 +67,7 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 ├── systematic-literature-review/    Phase 1 — SLR: screening/extraction tables, tooling, and the screening write-up
 │   ├── data/                           Screening (Phase 1, 2, snowballing) tables + screening-tool-documentation.md — extraction/ holds the AI-assisted extraction methodology + source materials (extraction table itself pending)
 │   └── scripts/                        Apps Script + Python tooling behind the screening pipeline
-├── focus-group/                     Focus-group protocol, sessions, and analysis — placeholder
+├── focus-group/                     Focus-group protocol (script + preparation prompts) — sessions and analysis still placeholders
 ├── survey/                          Survey instrument, data, and analysis — placeholder
 └── community-collaboration/         Participatory co-design resources and working-session notes — placeholder
 ```
@@ -80,13 +80,13 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 
 **[`systematic-literature-review/`](./systematic-literature-review/)** — Phase 1 of the methodology above. This is the strand that's populated so far: [`data/screening/screening-tool-documentation.md`](./systematic-literature-review/data/screening/screening-tool-documentation.md) explains how the two-reviewer screening tool and its automation pipeline worked (including the Phase 1 title/abstract screening process), alongside the resulting screening tables and the tooling used to produce them (a paper-screening web app and supporting scripts). [`data/extraction/`](./systematic-literature-review/data/extraction/) holds the write-up and source materials from an AI-assisted extraction approach that was explored but not used in the study.
 
-**[`focus-group/`](./focus-group/)** — *Placeholder, not yet populated.* Will hold the focus-group protocol, session materials, and thematic analysis from the qualitative educator-perspectives phase of the methodology (objective 2 above).
+**[`focus-group/`](./focus-group/)** — Part of the qualitative educator-perspectives phase of the methodology (objective 2 above). [`protocol/`](./focus-group/protocol/) holds the approved moderator script and the participant preparation prompts (including the study's working definitions of skills, values, and virtues). Session materials and thematic analysis are still placeholders.
 
 **[`survey/`](./survey/)** — *Placeholder, not yet populated.* Will hold the survey instrument, de-identified response data, and analysis, from the same qualitative educator-perspectives phase.
 
 **[`community-collaboration/`](./community-collaboration/)** — *Placeholder, not yet populated.* Will hold the resources, working-session notes, and community feedback from the participatory co-design phase (objective 4 above).
 
-Each folder — including the three placeholders — has its own `README.md` with more detail on the suggested contents and any data-handling notes (for example, de-identifying participant data from focus groups and surveys before it's committed).
+Each folder has its own `README.md` with more detail on its contents (or suggested contents, for the parts still placeholders) and any data-handling notes (for example, de-identifying participant data from focus groups and surveys before it's committed).
 
 ## Data and large files
 

@@ -3,6 +3,7 @@
 Materials for the participatory co-design strand of WG10 — developing actionable resources for computing courses together with faculty and students (see [`../README.md`](../README.md) for how this fits into the group's overall methodology).
 
 - [`oer-materials/`](./oer-materials/) — open educational resources shared by the working group and community collaborators (see the tables below).
+- [`co-design-session/`](./co-design-session/) — materials from a working-group co-design session on supporting student teamwork through self- and peer-feedback (see the folder's [README](./co-design-session/README.md)).
 - `working-sessions/` — *placeholder, not yet populated.* Notes and outputs from the in-person ITiCSE 2026 working sessions in Madrid, and any biweekly/subgroup meeting notes.
 - `feedback/` — *placeholder, not yet populated.* Feedback collected on draft resources from the broader community.
 - `contributors.md` — *placeholder, not yet populated.* Working group members and other contributors to this strand.

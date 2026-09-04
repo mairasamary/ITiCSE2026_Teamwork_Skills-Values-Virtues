@@ -1,0 +1,10 @@
+# Co-Design Session
+
+Materials produced during a working-group co-design session on strategies for supporting student teamwork through structured self- and peer-feedback.
+
+**Contributed by:** Stephen Frezza (sfrezza@franciscan.edu), Batya Zamansky (batyaz2@illinois.edu), Maíra Marques Samary (marquemo@bc.edu), Colleen M. Lewis (colleenl@g.illinois.edu), Favour Olaosebikan, Shanon M. Reckinger (shanon@uic.edu), and Jafar Tavakoli.
+
+- [`StudentsSelf-Feedback.docx`](./StudentsSelf-Feedback.docx) / [`.pdf`](./StudentsSelf-Feedback.pdf) — "Approaches to Supporting Teamwork Solidarity: Students' Self-Feedback." Outlines two ways to prompt individual self-reflection on teamwork behavior: (1) periodic written self-reflection questions (e.g., did you follow the team contract, did you ask for or offer help, how do you see your own contribution versus how others might see it) and (2) a behavioral self-reflection checklist built from a short list of desired teamwork behaviors that students apply and provide evidence for. Includes suggested faculty evaluation criteria (completion-based grading with clear rubrics) and two flagged concerns with mitigations: students interpreting a peer's behavior differently depending on cultural background, and students using AI to write their reflections.
+- [`StudentsPeerFeedback.docx`](./StudentsPeerFeedback.docx) / [`.pdf`](./StudentsPeerFeedback.pdf) — "Approaches to Supporting Teamwork Solidarity: Students' Peer Feedback." Targets teams that aren't coordinating well because they haven't set explicit expectations around communication, task coordination, or workload distribution. Proposes having teams write a deliberate plan for each at the start of a sprint/semester and report back at the end (including a graph visualizing workload distribution), plus unannounced individual "pop-quiz"-style check-ins to see whether teammates' understanding of the plan is actually consistent with each other — with suggested grading criteria for scoring the accuracy of those answers.
+
+Both documents are working notes from a co-design brainstorming session rather than finished, field-tested materials.

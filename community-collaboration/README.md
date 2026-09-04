@@ -97,3 +97,11 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1Yn
 | Teamwork Resources | Overview of teamwork practices embedded in teaching: Personal User Manuals, student-driven consultations, Team Working Agreements, and the EPIC Platform (a co-designed initiative supporting inclusive, neurodivergent-friendly teamwork) | [Overview (.docx)](./oer-materials/SanazNikfalazar_TeamworkResources.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1pzMWWepXgkxgsO5pdE0iOkCrJDos5OZu).
+
+### Centre for Teaching Excellence, University of Waterloo
+
+| Material | Type | Link(s) | License |
+|---|---|---|---|
+| Making Group Contracts | Teaching tip on guiding students through creating group contracts (ground rules, roles/responsibilities, conflict resolution, peer feedback), with links to templates and samples from other institutions | [Teaching tip (.pdf)](./oer-materials/UWaterlooCTE_MakingGroupContracts.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+
+Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1bkfmQaOndCE5GycuoeLUGrYTcV1odkiJ).

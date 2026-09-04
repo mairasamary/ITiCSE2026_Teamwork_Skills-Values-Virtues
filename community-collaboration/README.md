@@ -89,3 +89,11 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1NI
 | Deliverable 0 / Team Homework 1: Design Your Team | Homework assignment for a new team to define roles (PM, designers, developers) and get organized | [Assignment (.docx)](./oer-materials/GregoryNelson_Deliverable0-DesignYourTeam.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1YnXf06IC6_P4TQAwp6Lb5JwolSJCx4Og).
+
+### Sanaz Nikfalazar (sanaz.nikfalazar1@monash.edu)
+
+| Material | Type | Link(s) | License |
+|---|---|---|---|
+| Teamwork Resources | Overview of teamwork practices embedded in teaching: Personal User Manuals, student-driven consultations, Team Working Agreements, and the EPIC Platform (a co-designed initiative supporting inclusive, neurodivergent-friendly teamwork) | [Overview (.docx)](./oer-materials/SanazNikfalazar_TeamworkResources.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+
+Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1pzMWWepXgkxgsO5pdE0iOkCrJDos5OZu).

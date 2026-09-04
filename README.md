@@ -68,7 +68,7 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 │   ├── data/                           Screening (Phase 1, 2, snowballing) tables + screening-tool-documentation.md — extraction/ holds the AI-assisted extraction methodology + source materials (extraction table itself pending)
 │   └── scripts/                        Apps Script + Python tooling behind the screening pipeline
 ├── focus-group/                     Focus-group protocol (script + preparation prompts) — sessions and analysis still placeholders
-├── survey/                          Survey instrument, data, and analysis — placeholder
+├── survey/                          Survey instrument (pre-survey) — data and analysis still placeholders
 └── community-collaboration/         Participatory co-design resources and working-session notes — placeholder
 ```
 
@@ -82,7 +82,7 @@ ITiCSE2026_Teamwork_Skills-Values-Virtues/
 
 **[`focus-group/`](./focus-group/)** — Part of the qualitative educator-perspectives phase of the methodology (objective 2 above). [`protocol/`](./focus-group/protocol/) holds the approved moderator script and the participant preparation prompts (including the study's working definitions of skills, values, and virtues). Session materials and thematic analysis are still placeholders.
 
-**[`survey/`](./survey/)** — *Placeholder, not yet populated.* Will hold the survey instrument, de-identified response data, and analysis, from the same qualitative educator-perspectives phase.
+**[`survey/`](./survey/)** — Part of the same qualitative educator-perspectives phase. [`instrument/`](./survey/instrument/) holds the pre-survey sent to computing educators (academic and industry teamwork background, open-ended questions, demographics, and the focus-group invitation). De-identified response data and analysis are still placeholders.
 
 **[`community-collaboration/`](./community-collaboration/)** — *Placeholder, not yet populated.* Will hold the resources, working-session notes, and community feedback from the participatory co-design phase (objective 4 above).
 

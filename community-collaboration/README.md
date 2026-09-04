@@ -67,3 +67,25 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1Qq
 | CS216 Forms | Course forms page (late-day tokens, extensions, online-attendance requests) | [Forms (.pdf)](./oer-materials/KristinStephensMartinez_Forms.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
 All six pages are from Duke's CS216 ("Everything Data") course site, shared via [this Google Drive folder](https://drive.google.com/drive/folders/17EDAgqYPupn47hJ8bjrxDCzON2-raVT1).
+
+### Heidi Ellis (heidi.ellis@wne.edu)
+
+| Material | Type | Link(s) | License |
+|---|---|---|---|
+| Team Creation of Working Agreement (Activity) | TeachingOpenSource activity page for a team assignment to set up a GitLab team environment and create a Working Agreement | [Activity page (.pdf)](./oer-materials/HeidiEllis_TeamCreationWorkingAgreement-Activity.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| PA1 - Team and Project Organization (Instructor) | Instructor's project assignment: setting up a team in GitLab (labels, issue boards) and creating a team Working Agreement | [Assignment (.pdf)](./oer-materials/HeidiEllis_PA1-TeamAndProjectOrganization.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| Working Agreement (Activity) | TeachingOpenSource activity page preparing students to create a team working agreement | [Activity page (.pdf)](./oer-materials/HeidiEllis_WorkingAgreement-Activity.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| Working Agreement Activity (Original) | In-class activity guiding a team through building the foundation for a Working Agreement (team experience, health signals, psychological safety, accountability) | [Activity (.pdf)](./oer-materials/HeidiEllis_WorkingAgreementActivity-Original.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+
+Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1NIGyfG09OFm3Fy7wJ6Dw7-0wD8N17RGf).
+
+### Gregory Nelson (gregory.nelson@maine.edu)
+
+| Material | Type | Link(s) | License |
+|---|---|---|---|
+| Managing Tasks Class Activity | In-class activity on team task management using issue trackers (GitHub issues/projects) | [Activity (.docx)](./oer-materials/GregoryNelson_ManagingTasksClassActivity.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| SWE: Task Management and Quality Checking of Tasks on a Team | Guide on sprint planning, task creation, and peer quality checking on a software engineering team | [Guide (.docx)](./oer-materials/GregoryNelson_TaskManagementAndQualityChecking.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| Shareable Activity: Meet Your Teammates | Team-formation icebreaker activity using a "fast friends" question protocol to build trust among new teammates | [Activity (.docx)](./oer-materials/GregoryNelson_MeetYourTeammates.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| Deliverable 0 / Team Homework 1: Design Your Team | Homework assignment for a new team to define roles (PM, designers, developers) and get organized | [Assignment (.docx)](./oer-materials/GregoryNelson_Deliverable0-DesignYourTeam.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+
+Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1YnXf06IC6_P4TQAwp6Lb5JwolSJCx4Og).

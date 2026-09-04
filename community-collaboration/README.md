@@ -105,3 +105,12 @@ Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1pz
 | Making Group Contracts | Teaching tip on guiding students through creating group contracts (ground rules, roles/responsibilities, conflict resolution, peer feedback), with links to templates and samples from other institutions | [Teaching tip (.pdf)](./oer-materials/UWaterlooCTE_MakingGroupContracts.pdf) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
 
 Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1bkfmQaOndCE5GycuoeLUGrYTcV1odkiJ).
+
+### Eberly Center, Carnegie Mellon University
+
+| Material | Type | Link(s) | License |
+|---|---|---|---|
+| Sample Team Contract | Fill-in team contract template (goals, expectations, policies & procedures, consequences) | [Template (.docx)](./oer-materials/EberlyCenterCMU_TeamContract.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| Peer Evaluation Form for Group Work | Fill-in peer evaluation form for rating group members on meeting attendance, contribution, and quality of work, plus reflection questions on team dynamics | [Form (.docx)](./oer-materials/EberlyCenterCMU_PeerEvalGroupWork.docx) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+
+Shared via [this Google Drive folder](https://drive.google.com/drive/folders/1oehE7mygkh1WVfseMG05i1QKM7lCoQP0).
